@@ -1,5 +1,5 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# MealMagic
+MealMagic Mobile App.
 
 # Features
 * Share Projects
